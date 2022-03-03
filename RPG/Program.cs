@@ -102,4 +102,3 @@ namespace Console_RPG
         }
     }
 }
-7
